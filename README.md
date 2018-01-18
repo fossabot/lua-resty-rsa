@@ -9,6 +9,7 @@ Status
 This library is considered production ready.
 
 Build status: [![Travis](https://travis-ci.org/doujiang24/lua-resty-rsa.svg?branch=master)](https://travis-ci.org/doujiang24/lua-resty-rsa)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Flua-resty-rsa.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Flua-resty-rsa?ref=badge_shield)
 
 
 Description
@@ -351,3 +352,7 @@ See Also
 ========
 * the ngx_lua module: http://wiki.nginx.org/HttpLuaModule
 * the lua-resty-string: https://github.com/openresty/lua-resty-string
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Flua-resty-rsa.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Flua-resty-rsa?ref=badge_large)
